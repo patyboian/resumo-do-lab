@@ -1,4 +1,4 @@
-# Resumo-do-lab
+# Resumo-do-lab (Lab 1)
 Este repositório contém o resumo das lições aprendidas durante o desenvolvimento do lab na DIO sobre Azure
 
 ## Tópicos aprendidos
@@ -9,7 +9,7 @@ Este repositório contém o resumo das lições aprendidas durante o desenvolvim
 
 # Resumo para o segundo Lab
 
-## Criar máquina virtual
+## Criar máquina virtual (Lab 2)
 
 1. Digite máquinas virtuais na pesquisa.
 2. Em Serviços, selecione Máquinas virtuais.
@@ -31,3 +31,20 @@ Inicie uma conexão da área de trabalho remota para a máquina virtual. Estas i
 3. Abra o arquivo RDP baixado e clique em Conectar quando solicitado.
 4. Na janela Segurança do Windows, selecione Mais opções e Usar uma conta diferente. Digite o nome de usuário como localhost\nome de usuário, insira a senha que você criou para a máquina virtual e clique em OK.
 5. Você pode receber um aviso do certificado durante o processo de logon. Clique em Sim ou em Continuar para criar a conexão.
+
+
+# Finalização do módulo 1 (Lab 3)
+
+Aprendemos sobre os tipos de serviço em núvem:
+
+## IaaS
+- Serviço de nuvem mais flexível;
+- Você configura e gerencia o hardware para seu aplicativo;
+  
+## PaaS
+- Focado no desenvolvimento de aplicativos;
+- O gerenciamento da plataforma é realizado pelo provedor de nuvem;
+  
+## SaaS
+- Modelo de preço de pagamento conforme o uso;
+- Os usuários pagam pelo software que utilizam em um modelo de assinatura
